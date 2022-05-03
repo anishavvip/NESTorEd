@@ -11,6 +11,5 @@
   <img src="https://user-images.githubusercontent.com/85858695/166440622-da06e7e2-8c31-4e6b-8485-7e60544d3460.JPG"><br>
   <img src="https://user-images.githubusercontent.com/85858695/166440612-7b60e2ba-9c54-4a18-b3c0-e814a33668cb.JPG"><br>
   <img src="https://user-images.githubusercontent.com/85858695/166440619-aa6f1e78-0794-4747-b427-a79d7b261ebd.JPG"><br>
-  <img src="https://user-images.githubusercontent.com/85858695/166440619-aa6f1e78-0794-4747-b427-a79d7b261ebd.JPG"><br>
   <img src="https://user-images.githubusercontent.com/85858695/166441029-39487f60-30d7-4b28-9415-5868bae3590f.jpg" alt="Breaker"/>
 </p>
