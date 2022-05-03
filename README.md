@@ -4,9 +4,7 @@
 <p align="center">Designed and developed a website using WordPress focused on providing career counselling for students and graduates.
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/85858695/151645586-f8b5367b-41e1-4e04-9296-aa047fbae179.png" alt="Sling Fight"/>
-  <img src="https://user-images.githubusercontent.com/85858695/151645831-59e10861-6fba-4406-abec-32bba95b101e.gif" alt="Sling Fight"/>
-  <img src="https://user-images.githubusercontent.com/85858695/151645627-be3f5d97-664d-4cc9-b715-65240c93436a.png" alt="Slicer"/>
-  <img src="https://user-images.githubusercontent.com/85858695/151645966-dca5368c-7f5f-4dc5-892c-e14a023db1f6.gif" alt="Slicer"/>
+  <img src="https://user-images.githubusercontent.com/85858695/166440178-5dc96c79-642e-4cb9-b3d3-184308657108.JPG">
   <img src="https://user-images.githubusercontent.com/85858695/151645991-d1b6b9a9-0503-43c2-824d-921ff256dca8.png" alt="Breaker"/>
 </p>
+
