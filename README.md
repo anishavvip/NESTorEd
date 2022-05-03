@@ -1,8 +1,7 @@
 <img src="https://user-images.githubusercontent.com/85858695/151645506-cdf599e6-21c3-49cf-9369-ac59f27618b1.png" alt="Projects with Company"/>
-<img src="https://user-images.githubusercontent.com/85858695/151645539-13c1396a-4906-4818-a179-a5b4dc459a08.png" alt="Wiseup Infotech LLP"/>
+<img src="https://user-images.githubusercontent.com/85858695/151645539-13c1396a-4906-4818-a179-a5b4dc459a08.png" alt="NESTorEd"/>
 
-<p align="center">Developed prototypes of Sling Fight and Slicer with the help of the built-in AI and the physics engine.<br> 
-  Learned to utilize the assets by comprehending its documentation.
+<p align="center">Designed and developed a website using WordPress focused on providing career counselling for students and graduates.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/85858695/151645586-f8b5367b-41e1-4e04-9296-aa047fbae179.png" alt="Sling Fight"/>
