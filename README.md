@@ -24,6 +24,4 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/85858695/166440619-aa6f1e78-0794-4747-b427-a79d7b261ebd.JPG"><br>
 </p>
-<p align="center">
   <img src="https://user-images.githubusercontent.com/85858695/166441029-39487f60-30d7-4b28-9415-5868bae3590f.jpg" alt="Breaker"/>
-</p>
