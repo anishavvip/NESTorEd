@@ -1,8 +1,7 @@
 <img src="https://user-images.githubusercontent.com/85858695/151645506-cdf599e6-21c3-49cf-9369-ac59f27618b1.png" alt="Projects with Company"/>
 <img src="https://user-images.githubusercontent.com/85858695/166443796-c03797d8-95f7-45f0-a26c-9703608c3231.jpg" alt="NESTorEd"/>
 
-<p align="center">Designed and developed a website using WordPress focused on providing career counselling for students and graduates.
-</p>
+<p>Designed and developed a website using WordPress focused on providing career counselling for students and graduates. </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/85858695/166440178-5dc96c79-642e-4cb9-b3d3-184308657108.JPG">
 </p>
